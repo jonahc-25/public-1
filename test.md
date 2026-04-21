@@ -10,7 +10,7 @@ This guide walks you through installing and configuring MetaMask to use the **Se
 - Internet connection
 
 ---
-
+![logo](logo.png)
 ## 1. Install MetaMask
 
 1. Go to the official MetaMask website:  
@@ -49,6 +49,7 @@ By default, MetaMask hides test networks.
 ---
 
 ## 4. Switch to Sepolia Network
+
 
 1. At the top of MetaMask, click the network dropdown
 2. Select **“Sepolia”**
