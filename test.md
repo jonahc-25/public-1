@@ -10,7 +10,9 @@ This guide walks you through installing and configuring MetaMask to use the **Se
 - Internet connection
 
 ---
-![logo](logo.png)
+
+<img src="logo.png" alt="drawing" width="200"/>
+
 ## 1. Install MetaMask
 
 1. Go to the official MetaMask website:  
